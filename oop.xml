@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
+        <author>Programación de Verdad - Mariana Casella</author>
+        <email>programaciondeverdad@gmail.com</email>
         <title>
-            CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)
+            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
         </title>
         <description>
-            CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)
+            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
         </description>
         <link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
         <image>
@@ -17,123 +19,109 @@
         <lastBuildDate>Sun, 03 Jan 2021 11:56:01 GMT</lastBuildDate>
         <atom:link href="https://rss.app/feeds/OwXyMBDuJOzhwHaX.xml" rel="self" type="application/rss+xml" />
         <language>
-            en
+            <![CDATA[en]]>
         </language>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                1 minuto: Conocé que son las Clases Grupales de Programación de Verdad
+                <![CDATA[1 minuto: Conocé que son las Clases Grupales de Programación de Verdad]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/TA_ozqWhNsA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/TA_ozqWhNsA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=TA_ozqWhNsA</link>
             <guid isPermaLink="false">40da13fe01fea979ae60ea4d363ab107</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Thu, 17 Dec 2020 11:52:04 GMT</pubDate>
             <media:content medium="image" url="https://i1.ytimg.com/vi/TA_ozqWhNsA/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                👉📣Aprendé programación gratis!
+                <![CDATA[👉📣Aprendé programación gratis!]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/R_iqiidxzgA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/R_iqiidxzgA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=R_iqiidxzgA</link>
             <guid isPermaLink="false">560a69d11ba2eea031e2c598f9629447</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Tue, 23 Jun 2020 21:52:01 GMT</pubDate>
             <media:content medium="image" url="https://i3.ytimg.com/vi/R_iqiidxzgA/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                👉👩‍💻 5. Programación Orientada a Objetos - MODIFICADORES DE ACCESO (public, private y protected)
+                <![CDATA[👉👩‍💻 5. Programación Orientada a Objetos - MODIFICADORES DE ACCESO (public, private y protected)]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/7UToMwVN0Vo" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/7UToMwVN0Vo" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=7UToMwVN0Vo</link>
             <guid isPermaLink="false">08a3078e968a075f55286b483ce5e666</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Thu, 26 Mar 2020 17:26:41 GMT</pubDate>
             <media:content medium="image" url="https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                👉👩‍💻 4. Programación Orientada a Objetos - class extends - EXTENSIÓN DE CLASES
+                <![CDATA[👉👩‍💻 4. Programación Orientada a Objetos - class extends - EXTENSIÓN DE CLASES]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/B5Ar2c5R2So" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/B5Ar2c5R2So" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=B5Ar2c5R2So</link>
             <guid isPermaLink="false">8698a162bfd119e15c9e30f01a5a57f3</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Wed, 18 Mar 2020 23:00:04 GMT</pubDate>
             <media:content medium="image" url="https://i3.ytimg.com/vi/B5Ar2c5R2So/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                👉👩‍💻 Programación Orientada a Objetos: Polimorfismo en Programacion Objetos y cómo usarlo
+                <![CDATA[👉👩‍💻 Programación Orientada a Objetos: Polimorfismo en Programacion Objetos y cómo usarlo]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/VJbMBGKUmBI" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/VJbMBGKUmBI" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=VJbMBGKUmBI</link>
             <guid isPermaLink="false">ad5d191e89f84601022b7aff3eba6219</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Thu, 12 Mar 2020 00:01:40 GMT</pubDate>
             <media:content medium="image" url="https://i3.ytimg.com/vi/VJbMBGKUmBI/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos  - Capítulo 2: Clases y Objetos
+                <![CDATA[CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos  - Capítulo 2: Clases y Objetos]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Gn0NdBYAzJ0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Gn0NdBYAzJ0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=Gn0NdBYAzJ0</link>
             <guid isPermaLink="false">679fbab581e60a09550a64ef4a314424</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Wed, 04 Mar 2020 23:00:02 GMT</pubDate>
             <media:content medium="image" url="https://i4.ytimg.com/vi/Gn0NdBYAzJ0/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
             <title>
-                CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos: Capítulo 1 - Introducción
+                <![CDATA[CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos: Capítulo 1 - Introducción]]>
             </title>
             <description>
-                <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/UwhNYpS-ijs" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>
+                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/UwhNYpS-ijs" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
             </description>
             <link>https://www.youtube.com/watch?v=UwhNYpS-ijs</link>
             <guid isPermaLink="false">77cf370a061a5edb22d507460e904e2a</guid>
             <dc:creator>
-                Programación De Verdad
+                <![CDATA[Programación De Verdad]]>
             </dc:creator>
             <pubDate>Wed, 26 Feb 2020 23:00:10 GMT</pubDate>
             <media:content medium="image" url="https://i2.ytimg.com/vi/UwhNYpS-ijs/hqdefault.jpg" />
