@@ -17,12 +17,21 @@
 			<itunes:name>Programación de Verdad</itunes:name>
 			<itunes:email>programaciondeverdad@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image>
-			<url>https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg</url>
-			<title>Programación de Verdad</title>
-			<link>https://bit.ly/programacion_de_verdad</link>
-		</itunes:image>
-		<itunes:link rel="image" type="video/jpeg" href="https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg">- FeedForAll Podcasting Tutorial</itunes:link>
+        <title>
+            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
+        </title>
+        <description>
+            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
+        </description>
+        <link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
+        <image>
+            <url>https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png</url>
+            <title>CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)</title>
+            <link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
+        </image>
+        <generator>https://rss.app</generator>
+        <lastBuildDate>Sun, 03 Jan 2021 11:56:01 GMT</lastBuildDate>
+        <atom:link href="https://rss.app/feeds/OwXyMBDuJOzhwHaX.xml" rel="self" type="application/rss+xml" />
         <item>
 			<itunes:category text="Technology">
 				<itunes:category text="Information Technology"/>
