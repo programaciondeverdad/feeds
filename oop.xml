@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <author>Programación de Verdad - Mariana Casella</author>
-        <email>programaciondeverdad@gmail.com</email>
+		<author><![CDATA[Programación de Verdad - Mariana Casella]]></author>
+		<copyright><![CDATA[Programación de Verdad - Mariana Casella]]></copyright>
+		<language><![CDATA[es]]></language>
+		<itunes:author>Programación de Verdad - Mariana Casella</itunes:author>
+		<itunes:summary>Aprende programación de verdad escuchando podcats de Mariana Casella!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Programación de Verdad - Mariana Casella</itunes:name>
+			<itunes:email>programaciondeverdad@gmail.com</itunes:email>
+		</itunes:owner>
+
         <title>
             <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
         </title>
@@ -18,9 +27,6 @@
         <generator>https://rss.app</generator>
         <lastBuildDate>Sun, 03 Jan 2021 11:56:01 GMT</lastBuildDate>
         <atom:link href="https://rss.app/feeds/OwXyMBDuJOzhwHaX.xml" rel="self" type="application/rss+xml" />
-        <language>
-            <![CDATA[en]]>
-        </language>
         <item>
             <author>Programación de Verdad - Mariana Casella</author>
             <email>programaciondeverdad@gmail.com</email>
