@@ -1,73 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-		<author><![CDATA[Programación de Verdad - Mariana Casella]]></author>
-		<copyright><![CDATA[Programación de Verdad - Mariana Casella]]></copyright>
-		<language><![CDATA[es]]></language>
+		<title><![CDATA[ CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP) ]]></title>
+		<description><![CDATA[ CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP) ]]></description>
+		<link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
+		<lastBuildDate>Mon, 25 Jul 2005 16:37:32 -0400</lastBuildDate>
+		<pubDate>Mon, 25 Jul 2005 09:00:00 -0400</pubDate>
+		<generator>FeedForAll Mac v1.0 (1.0.1.0) unlicensed version</generator>
+		<itunes:category text="Technology">
+			<itunes:category text="Information Technology"/>
+		</itunes:category>
+		<itunes:subtitle>Aprende programación orientada a objetos online, con este podcast de Programación de Verdad</itunes:subtitle>
+		<itunes:summary>Programación con objetos y clases explicado con PHP</itunes:summary>
 		<itunes:author>Programación de Verdad - Mariana Casella</itunes:author>
-		<itunes:summary>Aprende programación de verdad escuchando podcats de Mariana Casella!</itunes:summary>
-		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>Programación de Verdad - Mariana Casella</itunes:name>
+			<itunes:name>Programación de Verdad</itunes:name>
 			<itunes:email>programaciondeverdad@gmail.com</itunes:email>
 		</itunes:owner>
-
-        <title>
-            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
-        </title>
-        <description>
-            <![CDATA[CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)]]>
-        </description>
-        <link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
-        <image>
-            <url>https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png</url>
-            <title>CURSO GRATIS PROGRAMACIÓN ORIENTADA A OBJETOS (OOP)</title>
-            <link>https://www.youtube.com/playlist?list=PLJTVBLjDuH-SJF03Hk1GPR9gnVzkztzEm</link>
-        </image>
-        <generator>https://rss.app</generator>
-        <lastBuildDate>Sun, 03 Jan 2021 11:56:01 GMT</lastBuildDate>
-        <atom:link href="https://rss.app/feeds/OwXyMBDuJOzhwHaX.xml" rel="self" type="application/rss+xml" />
+		<itunes:image>
+			<url>https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg</url>
+			<title>Programación de Verdad</title>
+			<link>https://bit.ly/programacion_de_verdad</link>
+		</itunes:image>
+		<itunes:link rel="image" type="video/jpeg" href="https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg">- FeedForAll Podcasting Tutorial</itunes:link>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
-            <title>
-                <![CDATA[1 minuto: Conocé que son las Clases Grupales de Programación de Verdad]]>
-            </title>
-            <description>
-                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/TA_ozqWhNsA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
-            </description>
-            <link>https://www.youtube.com/watch?v=TA_ozqWhNsA</link>
-            <guid isPermaLink="false">40da13fe01fea979ae60ea4d363ab107</guid>
-            <dc:creator>
-                <![CDATA[Programación De Verdad]]>
-            </dc:creator>
-            <pubDate>Thu, 17 Dec 2020 11:52:04 GMT</pubDate>
-            <media:content medium="image" url="https://i1.ytimg.com/vi/TA_ozqWhNsA/hqdefault.jpg" />
-        </item>
-        <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
-            <title>
-                <![CDATA[👉📣Aprendé programación gratis!]]>
-            </title>
-            <description>
-                <![CDATA[<div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/R_iqiidxzgA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div>]]>
-            </description>
-            <link>https://www.youtube.com/watch?v=R_iqiidxzgA</link>
-            <guid isPermaLink="false">560a69d11ba2eea031e2c598f9629447</guid>
-            <dc:creator>
-                <![CDATA[Programación De Verdad]]>
-            </dc:creator>
-            <pubDate>Tue, 23 Jun 2020 21:52:01 GMT</pubDate>
-            <media:content medium="image" url="https://i3.ytimg.com/vi/R_iqiidxzgA/hqdefault.jpg" />
-        </item>
-        <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
+			<itunes:category text="Technology">
+				<itunes:category text="Information Technology"/>
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
             <title>
                 <![CDATA[👉👩‍💻 5. Programación Orientada a Objetos - MODIFICADORES DE ACCESO (public, private y protected)]]>
             </title>
@@ -83,8 +43,10 @@
             <media:content medium="image" url="https://i4.ytimg.com/vi/7UToMwVN0Vo/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
+			<itunes:category text="Technology">
+				<itunes:category text="Information Technology"/>
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
             <title>
                 <![CDATA[👉👩‍💻 4. Programación Orientada a Objetos - class extends - EXTENSIÓN DE CLASES]]>
             </title>
@@ -100,8 +62,10 @@
             <media:content medium="image" url="https://i3.ytimg.com/vi/B5Ar2c5R2So/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
+			<itunes:category text="Technology">
+				<itunes:category text="Information Technology"/>
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
             <title>
                 <![CDATA[👉👩‍💻 Programación Orientada a Objetos: Polimorfismo en Programacion Objetos y cómo usarlo]]>
             </title>
@@ -117,8 +81,10 @@
             <media:content medium="image" url="https://i3.ytimg.com/vi/VJbMBGKUmBI/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
+			<itunes:category text="Technology">
+				<itunes:category text="Information Technology"/>
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
             <title>
                 <![CDATA[CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos  - Capítulo 2: Clases y Objetos]]>
             </title>
@@ -134,8 +100,10 @@
             <media:content medium="image" url="https://i4.ytimg.com/vi/Gn0NdBYAzJ0/hqdefault.jpg" />
         </item>
         <item>
-            <author>Programación de Verdad - Mariana Casella</author>
-            <email>programaciondeverdad@gmail.com</email>
+			<itunes:category text="Technology">
+				<itunes:category text="Information Technology"/>
+			</itunes:category>
+			<itunes:explicit>no</itunes:explicit>
             <title>
                 <![CDATA[CURSO PROGRAMACIÓN ONLINE GRATIS | Programación Orientada a Objetos: Capítulo 1 - Introducción]]>
             </title>
